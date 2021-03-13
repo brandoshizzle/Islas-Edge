@@ -3384,14 +3384,14 @@ table.alt tbody tr td {
 /* Banner */
 
 #banner {
-    background-image: url("../../images/banner.jpg"),
-        -moz-linear-gradient(45deg, #4a4771 0%, #7c3875 100%);
-    background-image: url("../../images/banner.jpg"),
-        -webkit-linear-gradient(45deg, #4a4771 0%, #7c3875 100%);
-    background-image: url("../../images/banner.jpg"),
-        -ms-linear-gradient(45deg, #4a4771 0%, #7c3875 100%);
-    background-image: url("../../images/banner.jpg"),
-        linear-gradient(45deg, #4a4771 0%, #7c3875 100%);
+    background-image: url("../../images/banner.jpg");
+    /* -moz-linear-gradient(45deg, #4a4771 0%, #7c3875 100%); */
+    background-image: url("../../images/banner.jpg");
+    /* -webkit-linear-gradient(45deg, #4a4771 0%, #7c3875 100%); */
+    background-image: url("../../images/banner.jpg");
+    /* -ms-linear-gradient(45deg, #4a4771 0%, #7c3875 100%); */
+    background-image: url("../../images/banner.jpg");
+    /* linear-gradient(45deg, #4a4771 0%, #7c3875 100%); */
     color: rgba(255, 255, 255, 0.9);
     padding: 14em 4em 4em 4em;
     /* Full height */
